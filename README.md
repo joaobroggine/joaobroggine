@@ -2,15 +2,15 @@
 
 <h4>💬 I'm a student at FIAP and I'm currently take a "Analysis and System Development", I began in the world of programming indeed in 2024, but I had contact with Scratch and Gamemaker plataform when I was a child. Plus, my english is not advanced, then, so sorry for my terribles mistakes.</h4>
 
-[![joaobroggine](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobroggine&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![joaobroggine](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobroggine&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>📚 Currently Learning</h2>
 <h6>
 <p>Java</p>
 <p>HTML, CSS, JavaScript</p>
 <p>Python</p>
-<p>SQL</p>
-<p>Node.Js</p>
+<p>Oracle Database</p>
+<p>Git</p>
 </h6>
 
 <h2> 📞 Find me in </h2>
