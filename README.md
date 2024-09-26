@@ -17,7 +17,7 @@
 <h3>I have knowledge in:</h3>
 <p align="center">
     <br>
-    <img src="https://skillicons.dev/icons?i=java,bootstrap,py,mysql,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,html,css,tailwind,js" />
 </p>
 <br>
 <div style="inline_block">
