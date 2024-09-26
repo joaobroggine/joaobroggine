@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="400px" width="300px" align="right">
 <h4>💬 I'm a student at FIAP and I'm currently taking "Analysis and System Development", I began in the world of programming indeed in 2024, but I had contact with Scratch and Gamemaker plataform when I was a child. Plus, my english is not advanced, then, so sorry for my terribles mistakes.</h4>
 <br>
 <a href="https://github.com/joaobroggine" title="Perfil do Broggine">
