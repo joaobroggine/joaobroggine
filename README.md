@@ -17,9 +17,13 @@
 <h3>I have knowledge in:</h3>
 <p align="center">
     <br>
-    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,html,css,tailwind,js" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,html,css,tailwind,js,ts" />
 </p>
-<br>
+<h3>My tools:</h3>
+<p align="center">
+    <br>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,figma,idea" />
+</p>
 <div style="inline_block">
 <h3>Find me in:</h3>
 <br>
