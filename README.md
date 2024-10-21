@@ -16,7 +16,7 @@
 <h3>I have knowledge in:</h3>
 <p align="center">
     <br>
-    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,html,css,tailwind,js,ts,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,html,css,js,ts,react,tailwind,nextjs" />
 </p>
 <h3>My tools:</h3>
 <p align="center">
