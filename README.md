@@ -16,12 +16,12 @@
 <h3>I have knowledge in:</h3>
 <p align="center">
     <br>
-    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,html,css,js,ts,react,tailwind,nextjs" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,html,css,bootstrap,js,ts,react,tailwind,nextjs" />
 </p>
 <h3>My tools:</h3>
 <p align="center">
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,figma,idea" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,git,figma,idea,postman" />
 </p>
 <div style="inline_block">
 <h3>Find me in:</h3>
