@@ -1,12 +1,12 @@
 <div align="center">
-
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1000&color=15B308&center=true&vCenter=true&width=560&lines=Hello+World!+I'm+Broggine)](https://git.io/typing-svg)
 <br>
 <br>
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="400px" width="300px" align="right">
+<img src="https://media.tenor.com/qvSmcpS-kdIAAAAi/n-harmonia-n.gif" alt="N" min-width="250px" max-width="400px" width="250px" align="right">
 <h4>💬 I'm a student at FIAP and I'm currently taking "Analysis and System Development", I began in the world of programming indeed in 2024, but I had contact with Scratch and Gamemaker plataform when I was a child. Plus, my english is not advanced, then, so sorry for my terribles mistakes.</h4>
 <br>
 
