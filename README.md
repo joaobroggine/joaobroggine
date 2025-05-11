@@ -7,7 +7,7 @@
 <br>
 
 <img src="https://media.tenor.com/qvSmcpS-kdIAAAAi/n-harmonia-n.gif" alt="N" min-width="250px" max-width="400px" width="250px" align="right">
-<h4>💬 I'm a student at FIAP and I'm currently taking "Analysis and System Development", I began in the world of programming indeed in 2024, but I had contact with Scratch and Gamemaker plataform when I was a child. Plus, my english is not advanced, then, so sorry for my terribles mistakes.</h4>
+<h4>💬 I'm a student at FIAP and I'm currently taking "System Development", I began in the world of programming indeed in 2024, but I had contact with Scratch and Gamemaker plataform when I was a child. Plus, my english is not advanced, then, so sorry for my terribles mistakes.</h4>
 <br>
 
 [![joaobroggine](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobroggine&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
