@@ -13,10 +13,16 @@
 [![joaobroggine](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobroggine&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
+<br>
+<br>
+<br>
 <h3>I have knowledge in:</h3>
 <p align="center">
     <br>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,mysql,html,css,bootstrap,js,nodejs,ts,react,tailwind,vite,nextjs" />
+    <p align="center">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,mysql,html,css,bootstrap,js,ts,react,tailwind,vite,nextjs" />
+    </p>
+    <br>
 </p>
 <h3>My tools:</h3>
 <p align="center">
