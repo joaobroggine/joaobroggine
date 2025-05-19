@@ -27,7 +27,7 @@
 <h3>My tools:</h3>
 <p align="center">
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,rider,eclipse,github,git,figma,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,rider,eclipse,github,git,figma,postman,linux,ubuntu" />
 </p>
 <div style="inline_block">
 <h3>Find me in:</h3>
