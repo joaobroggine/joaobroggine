@@ -20,14 +20,14 @@
 <p align="center">
     <br>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,bash,html,css,bootstrap,js,ts,react,tailwind,vite,nextjs" />
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,go,html,css,bootstrap,js,ts,react,tailwind,vite,nextjs" />
     </p>
     <br>
 </p>
 <h3>My tools:</h3>
 <p align="center">
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,rider,eclipse,github,git,figma,postman,windows,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,rider,eclipse,github,git,figma,postman,windows,linux,debian" />
 </p>
 <div style="inline_block">
 <h3>Find me in:</h3>
