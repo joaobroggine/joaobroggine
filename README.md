@@ -33,4 +33,4 @@
 <h3>Find me in:</h3>
 <br>
   
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-broggine-5b92a02b2/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/just.joaozz?igsh=MTZqM24zc2hlY2libg==/) [![Steam Badge](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199168089335/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-broggine-5b92a02b2/) [![Steam Badge](https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199168089335/)
